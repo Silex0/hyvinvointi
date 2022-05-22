@@ -43,3 +43,14 @@ nav ul {
     display: table;
     clear: both;
   }
+
+.imgg {
+  float: left;
+}
+
+.text {
+  padding-left: 410px;
+}
+.linkki {
+  padding-left: 10px;
+}
